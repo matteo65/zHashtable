@@ -1,2 +1,2 @@
-# zHashtable
-Flexible, robust and efficient persistent hashtable
+# zHugeMap
+Flexible, robust and efficient persistent map
